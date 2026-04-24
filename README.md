@@ -50,8 +50,8 @@ Capability to verify a working blockchain environment
 
 Clone the repo:
 
-git clone https://github.com/yourusername/onchain-workstation.git
-cd onchain-workstation
+git clone https://github.com/DecentralizeGeeky/init-onchain-workstation.git
+cd init-onchain-workstation
 
 #### Run the installer:
 
