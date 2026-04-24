@@ -25,18 +25,6 @@ This repository documents the complete setup of a Solana development environment
 
 This is not a theoretical guide — it is a real, working environment verified through execution.
 
-
-
-##  What This Project Proves
-
-This setup demonstrates:
-
-Ability to debug broken installations
-Understanding of Linux system dependencies
-Experience with Rust + Solana toolchain
-Persistence in resolving real-world dev issues
-Capability to verify a working blockchain environment
-
 ## ⚙️ Tech Stack
 - [x] Solana CLI
 - [x] Anchor Framework
