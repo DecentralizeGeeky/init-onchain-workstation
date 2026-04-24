@@ -141,7 +141,7 @@ Develop real on-chain applications
 
 # Author
 
-Muhammad Adamu
+ADAMU MUHAMMAD MUHAMMAD
 
 GitHub: [Geek](https://github.com/DecentralizeGeeky)
 x: [Geek](https://x.com/Adamsgeeky)
